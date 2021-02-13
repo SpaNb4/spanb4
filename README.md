@@ -2,8 +2,8 @@
 
 ## I'm a Developer, Student and Сat 😸!!!
 
--   🔭 I'm taking a cool front-end course from RSSchool: [Become a student!][course]
--   🌱 I’m currently learning JS
+-   🔭 I finished a cool front-end course from RSSchool: [Become a student!][course]
+-   🌱 I'm currently taking a course on React
 -   🥅 2021 Goals: Find a job 🤣
 -   ⚡ Fun fact: I love cats, but there is a cat that I love the most 😉
 
