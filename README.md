@@ -2,8 +2,7 @@
 
 ## I'm a Developer, Student and Сat 😸!!!
 
--   🔭 I finished a cool front-end course from RSSchool: [Become a student!][course]
--   🌱 I'm currently taking a course on React
+-   🔭 I finished a JavaScript and React courses from RSSchool: [Become a student!][course]
 -   🥅 2021 Goals: Find a job 🤣
 -   ⚡ Fun fact: I love cats, but there is a cat that I love the most 😉
 
@@ -12,7 +11,7 @@
 [<img align="left" alt="SpaNb4 | Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/600px-Telegram_logo.svg.png" />][telegram]
 [<img align="left" alt="SpaNb4 | VK" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" />][vk]
 [<img align="left" alt="SpaNb4 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="SpaNb4 | Email" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/45/New_Logo_Gmail.svg" />][email]
+[<img align="left" alt="SpaNb4 | Email" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][email]
 
 <br />
 
@@ -34,18 +33,6 @@
 <br />
 
 <hr>
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-
-<!--START_SECTION:activity-->
-
-1. 💪 Opened PR [#21](https://github.com/rolling-scopes-school/spanb4-JS2020Q3/pull/21) in [RSSchool GitHub account](https://github.com/rolling-scopes-school/spanb4-JS2020Q3)
-2. 💪 Opened PR [#13](https://github.com/denitrip/COVID-19/pull/13) in [Mentor GitHub account](https://github.com/denitrip/)
-3. ❌ Closed PR [#7](https://github.com/denitrip/COVID-19/pull/11) in [Mentor GitHub account](https://github.com/denitrip/)
- <!--END_SECTION:activity-->
-
-</details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
