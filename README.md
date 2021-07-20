@@ -2,14 +2,13 @@
 
 ## I'm a Developer, Student and Сat 😸!!!
 
--   🔭 I finished a JavaScript and React courses from RSSchool: [Become a student!][course]
--   🥅 2021 Goals: Find a job 🤣
+-   🔭 I finished a JavaScript, React, NodeJS courses from RSSchool: [Become a student!][course]
+-   🥅 2021 Goals: Become a TypeScript god 🤣
 -   ⚡ Fun fact: I love cats, but there is a cat that I love the most 😉
 
 ### Connect with me:
 
 [<img align="left" alt="SpaNb4 | Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/600px-Telegram_logo.svg.png" />][telegram]
-[<img align="left" alt="SpaNb4 | VK" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" />][vk]
 [<img align="left" alt="SpaNb4 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="SpaNb4 | Email" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][email]
 
