@@ -1,9 +1,9 @@
 ### Hi there, I'm Dzmitry - aka SpaNb4 👋
 
-## I'm a Developer and Сat 😸!!!
+## I'm a Frontend Developer and a Сat 😸!!!
 
--   🔭 I finished a JavaScript, React, NodeJS courses from RSSchool: [Become a student!][course]
--   🥅 2021 Goals: Become a TypeScript god 🤣
+-   🔭 Finished a JavaScript, React, NodeJS courses from RSSchool: [Become a student!][course]
+-   🥅 2021 Goals: Become a TypeScript god 🤣, start mentoring people who want to learn frontend development
 
 ### Connect with me:
 
